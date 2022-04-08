@@ -1,24 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import logo1 from './pics/TrackMyTasks.png';
+import logo2 from './pics/PuffNotes.png';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <body>
+      <div>
+        <h1>TrackMyTasks</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a web application that my team and I created for Cogs 120 to
+          help the user focus more on what they are currently doing. It is
+          intended as a to-do app with additional features to help the user stay
+          focused and on task for the duration of their work session.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <img className="appImg" src={logo1}></img>
+      </div>
+      <div>
+        <h1>Puff Notes</h1>
+        <p>
+          This is a web application that my team and I created for Cse 110. This
+          app is our version of a bullet journal. The main purpose is to help
+          the user store quick thoughts and notes in this app, so that they can
+          refer back to it later on in the day.
+        </p>
+        <img className="appImg" src={logo2}></img>
+      </div>
+    </body>
   );
 }
 

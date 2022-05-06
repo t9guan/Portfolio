@@ -1,11 +1,14 @@
 import './App.css';
+import Home from './pages/Home';
 import logo1 from './pics/TrackMyTasks.png';
 import logo2 from './pics/PuffNotes.png';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
 function App() {
   return (
     <body>
       <div>
+        <Link to={'/Case1'}>Case1</Link>
         <h1>TrackMyTasks</h1>
         <p>
           This is a web application that my team and I created for Cogs 120 to
@@ -16,6 +19,7 @@ function App() {
         <img className="appImg" src={logo1}></img>
       </div>
       <div>
+        <Link to={'/Case2'}>Case2</Link>
         <h1>Puff Notes</h1>
         <p>
           This is a web application that my team and I created for Cse 110. This

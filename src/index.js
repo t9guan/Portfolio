@@ -10,7 +10,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />} />
+      <Route path="/Portfolio" element={<App />} />
       <Route path="/case1" element={<Case1 />} />
       <Route path="/case2" element={<Case2 />} />
     </Routes>

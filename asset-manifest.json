@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7c5a8f6e.css",
-    "main.js": "/Portfolio/static/js/main.7f56eb40.js",
+    "main.js": "/Portfolio/static/js/main.86f047de.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tmtprototype2.png": "/Portfolio/static/media/tmtprototype2.254b9c4aea719257eafb.png",
+    "static/media/tmtprototype.jpg": "/Portfolio/static/media/tmtprototype.5e44f21ce9adde913382.jpg",
+    "static/media/tmtmp.png": "/Portfolio/static/media/tmtmp.60d55d88680fb4670a66.png",
     "static/media/TrackMyTasks.png": "/Portfolio/static/media/TrackMyTasks.d354b1e83f610205d4a3.png",
+    "static/media/tmtlog.png": "/Portfolio/static/media/tmtlog.f6509dcd48257419743e.png",
     "static/media/PuffNotes.png": "/Portfolio/static/media/PuffNotes.598390f476831119d354.png",
+    "static/media/tmtfaq.png": "/Portfolio/static/media/tmtfaq.90adbf41c29fd27313ee.png",
+    "static/media/tmttimer.png": "/Portfolio/static/media/tmttimer.950eff578763d7685383.png",
+    "static/media/tmtfirstproto.png": "/Portfolio/static/media/tmtfirstproto.9e6b0b79752693b94c5c.png",
     "index.html": "/Portfolio/index.html",
     "main.7c5a8f6e.css.map": "/Portfolio/static/css/main.7c5a8f6e.css.map",
-    "main.7f56eb40.js.map": "/Portfolio/static/js/main.7f56eb40.js.map",
+    "main.86f047de.js.map": "/Portfolio/static/js/main.86f047de.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c5a8f6e.css",
-    "static/js/main.7f56eb40.js"
+    "static/js/main.86f047de.js"
   ]
 }

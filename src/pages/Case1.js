@@ -19,7 +19,7 @@ function Case1() {
       <img className="appImg" src={prototype1}></img>
       <h3>Prototype 2</h3>
       <img className="appImg" src={prototype2}></img>
-      <h2>First Iteration</h2>
+      <h2>High Fidelity Prototype</h2>
       <img className="appImg" src={firstiter}></img>
       <h2>Main Page</h2>
       <img className="appImg" src={mp}></img>

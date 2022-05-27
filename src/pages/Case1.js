@@ -1,4 +1,9 @@
 import '../App.css';
+import '../css/case1.css';
+import Card from '../Card';
+import Particles from '../Particles';
+import Hero from '../Hero';
+import Info from '../Info'
 import React from 'react';
 import { Link } from 'react-router-dom';
 import prototype1 from '../pics/tmtprototype.jpg';
